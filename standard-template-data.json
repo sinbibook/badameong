@@ -1,0 +1,579 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "generatedAt": "2026-02-24T01:58:24.843Z",
+    "templateType": "full_banner_slider",
+    "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
+    "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
+  },
+  "property": {
+    "id": "831f8749-1836-48e5-8c17-3d08d0d6008d",
+    "name": "태안 바다멍애견풀빌라",
+    "description": "",
+    "subtitle": "",
+    "address": "충청남도 태안군 고남면 대야로 202",
+    "latitude": 36.4573613661996,
+    "longitude": 126.408557067973,
+    "contactPhone": "010-3432-2503",
+    "contactEmail": "",
+    "checkin": "15:00",
+    "checkout": "11:00",
+    "checkInOutInfo": "[입/퇴실 안내]\n- 입실시각: 15시\n- 퇴실시각: 11시\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
+    "usageGuide": "[펜션 이용 안내 사항]\n- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다. (현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 객실 내 고기 및 생선 등 냄새나는 요리는 금지입니다.\n\n[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 30,000원 (1박기준/현장결제)\n※ 12개월 미만 영유아 1인 무료 / 2인부터 추가비 발생 \n※ 영유아 기준인원 포함 / 최대인원 초과불가\n\n[개별바베큐]\n- 바베큐 구성: 가스그릴\n- 비용: 30,000원 (1박기준/현장결제)\n\n[개별수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 사계절\n- 온도: 미온수\n- 이용 요금: 50,000원 (1박기준/현장결제)\n- 애견 입수 가능\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리 무료, 초과시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 10kg 미만\n- 제한 마릿수: 객실 당 최대 3마리\n※ 공격성이 심한 반려견은 제한될 수 있습니다.\n\n[펫티켓]\n- 객실 내에서 생리중, 마킹을 하는 반려견은 기저귀, 매너 벨트를 꼭 착용해 주시길 바랍니다.\n- 객실 내 침구 및 소파에 실수 또는 심한 오염 시 세탁비가 발생됩니다.\n- 청결한 환경을 위하여 반려견 배변 시 즉시 처리해주시길 바랍니다.\n- 반려견의 돌발 행동으로 인한 모든 사고 및 피해는 보호자의 책임이므로 세심한 주의 부탁드립니다.\n- 입질이 심한 반려견은 견주님의 특별한 주의 부탁드립니다.\n\n[애견 잔디운동장]\n- 반려견과 자유롭게 이용할 수 있는 애견 잔디운동장이 있습니다. \n\n[주차장]\n- 펜션 건물앞 주차장 이용가능\n\n[주변관광지]\n- 꽃지 해수욕장\n- 안면도 자연휴양림\n- 코리아 플라워파크\n- 안면읍 수산시장\n- 백사장항\n- 태안빛축제\n- 팜카밀레 허브농원\n- 쥬라기 박물관\n- 안면암",
+    "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
+    "province": "충청남도",
+    "city": "태안군",
+    "amenities": [
+      "WiFi",
+      "주차장",
+      "수영장",
+      "바베큐시설"
+    ],
+    "nearbyAttractions": [
+      "해변",
+      "공원",
+      "맛집",
+      "수상스포츠"
+    ],
+    "services": [],
+    "propertyThemes": [
+      "오션뷰",
+      "힐링",
+      "가족",
+      "커플",
+      "반려동물동반"
+    ],
+    "propertyTypes": [
+      "펜션"
+    ],
+    "businessInfo": {
+      "businessName": "태안 바다멍애견풀빌라",
+      "businessNumber": "470-24-02071",
+      "representativeName": "정선미",
+      "businessAddress": "충청남도 태안군 고남면 대야로 202",
+      "businessPhone": "010-3432-2503",
+      "businessEmail": "2503@naver.com",
+      "businessType": "individual",
+      "businessCategory": "숙박업",
+      "eCommerceRegistrationNumber": ""
+    },
+    "contractInfo": {
+      "contractStartDate": "2025-09-10T00:00:00.000Z",
+      "contractEndDate": "2025-09-12T00:00:00.000Z",
+      "contractStatus": "active",
+      "contactName": "담당자명",
+      "contactEmail": "담당자 이메일",
+      "contactPhone": "담당자 전화번호",
+      "paymentTerms": null,
+      "cancellationPolicy": null,
+      "bankName": "은행명",
+      "accountNumber": "계좌번호",
+      "accountHolder": "예금주",
+      "commissionRate": 0,
+      "securityDeposit": 0
+    },
+    "facilities": [
+      {
+        "id": "1018af8d-9a12-4d7c-9bf2-d57c5a368abc",
+        "name": "개별바베큐",
+        "description": "개별 테라스에서 즐기는 연기 없는 바베큐 파티",
+        "usageGuide": "[개별바베큐]\n- 바베큐 구성: 가스그릴\n- 비용: 30,000원 (1박 기준/현장결제)",
+        "displayOrder": 0,
+        "images": []
+      },
+      {
+        "id": "bbb67f81-3491-49b9-ac0b-89f7d074cc80",
+        "name": "개별 미온수수영장",
+        "description": "사랑하는 반려견과 함께 입수 가능한 미온수 수영장",
+        "usageGuide": "[개별수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 사계절\n- 온도: 미온수\n- 이용 요금: 50,000원 (1박기준/현장결제)\n- 애견 입수 가능",
+        "displayOrder": 1,
+        "images": []
+      },
+      {
+        "id": "e83dafdf-49d2-4b68-95e7-75716a207e80",
+        "name": "애견동반",
+        "description": "바다멍은 애견을 위한 풀빌라입니다. \n애견동반 정보를 안내드립니다. ",
+        "usageGuide": "[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리 무료, 초과시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 10kg 미만\n- 제한 마릿수: 객실 당 최대 3마리\n※ 공격성이 심한 반려견은 제한될 수 있습니다.",
+        "displayOrder": 2,
+        "images": []
+      },
+      {
+        "id": "38dc842c-0023-405d-b804-1c5c73e70df1",
+        "name": "애견 잔디운동장",
+        "description": "반려견과 자유롭게 이용할 수 있는 애견 잔디운동장이 있습니다. ",
+        "usageGuide": "[애견 잔디운동장]\n- 반려견과 자유롭게 이용할 수 있는 애견 잔디운동장이 있습니다. ",
+        "displayOrder": 3,
+        "images": []
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
+      {
+        "refundProcessingDays": 5,
+        "refundRate": 50
+      },
+      {
+        "refundProcessingDays": 4,
+        "refundRate": 40
+      },
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 2,
+        "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      }
+    ],
+    "refundSettings": {
+      "customerRefundNotice": "",
+      "immediateRefundEnabled": false,
+      "immediateRefundTimeLimit": "60"
+    },
+    "images": [
+      {
+        "thumbnail": [],
+        "exterior": [],
+        "surrounding": [],
+        "commonArea": []
+      }
+    ],
+    "nameEn": "Taean Badameong Pet Pool Villa",
+    "domain": "badameong.kr",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11049",
+    "ybsId": "79489"
+  },
+  "rooms": [
+    {
+      "id": "ace338a1-b0f9-410d-baa5-7c51ab8d361d",
+      "name": "한마리 (독채, 애견풀빌라)",
+      "description": "",
+      "roomInfo": "복층독채형:\n- 1층: 거실 겸 주방+화장실1+개별테라스+개별수영장\n- 2층 : 침대룸A(퀸1)",
+      "usageGuide": "",
+      "group": null,
+      "size": 66.12,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0
+      },
+      "bedTypes": [
+        "퀸 베드"
+      ],
+      "amenities": [
+        "침대",
+        "스마트 TV",
+        "에어컨",
+        "냉장고",
+        "헤어드라이어",
+        "인덕션",
+        "가스레인지",
+        "전기밥솥",
+        "조리도구",
+        "식기류",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "애견식기",
+        "애견수영장",
+        "애견운동장",
+        "개별바비큐",
+        "풀빌라",
+        "소화기"
+      ],
+      "roomViews": [
+        "오션뷰"
+      ],
+      "roomStructures": [
+        "복층",
+        "독채"
+      ],
+      "status": "active",
+      "images": [
+        {
+          "thumbnail": [],
+          "interior": [],
+          "exterior": []
+        }
+      ],
+      "displayOrder": 1
+    },
+    {
+      "id": "9010ab4b-49ce-46b0-95b4-36b47cc29616",
+      "name": "두마리 (독채, 애견풀빌라)",
+      "description": "",
+      "roomInfo": "복층독채형:\n- 1층: 거실 겸 주방+화장실1+개별테라스+개별수영장\n- 2층 : 침대룸A(퀸1)",
+      "usageGuide": "",
+      "group": null,
+      "size": 66.12,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0
+      },
+      "bedTypes": [
+        "퀸 베드"
+      ],
+      "amenities": [
+        "침대",
+        "스마트 TV",
+        "에어컨",
+        "냉장고",
+        "헤어드라이어",
+        "인덕션",
+        "가스레인지",
+        "전기밥솥",
+        "조리도구",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "애견식기",
+        "애견수영장",
+        "애견운동장",
+        "개별바비큐",
+        "풀빌라",
+        "소화기"
+      ],
+      "roomViews": [
+        "오션뷰"
+      ],
+      "roomStructures": [
+        "복층",
+        "독채"
+      ],
+      "status": "active",
+      "images": [
+        {
+          "thumbnail": [],
+          "interior": [],
+          "exterior": []
+        }
+      ],
+      "displayOrder": 2
+    },
+    {
+      "id": "8d0a605c-2641-4c42-85b1-7424f914a4ce",
+      "name": "세마리 (독채, 애견풀빌라)",
+      "description": "",
+      "roomInfo": "복층독채형:\n- 1층: 거실 겸 주방+화장실1+개별테라스+개별수영장\n- 2층 : 침대룸A(퀸1)",
+      "usageGuide": "",
+      "group": null,
+      "size": 66.12,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0
+      },
+      "bedTypes": [
+        "퀸 베드"
+      ],
+      "amenities": [
+        "침대",
+        "스마트 TV",
+        "에어컨",
+        "냉장고",
+        "헤어드라이어",
+        "인덕션",
+        "가스레인지",
+        "전기밥솥",
+        "조리도구",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "애견식기",
+        "애견수영장",
+        "애견운동장",
+        "개별바비큐",
+        "풀빌라",
+        "소화기"
+      ],
+      "roomViews": [
+        "오션뷰"
+      ],
+      "roomStructures": [
+        "복층",
+        "독채"
+      ],
+      "status": "active",
+      "images": [
+        {
+          "thumbnail": [],
+          "interior": [],
+          "exterior": []
+        }
+      ],
+      "displayOrder": 3
+    },
+    {
+      "id": "5d528f3d-fe1a-424d-ae95-8e12b03ac2e6",
+      "name": "네마리 (독채, 애견풀빌라)",
+      "description": "",
+      "roomInfo": "복층독채형:\n- 1층: 거실 겸 주방+화장실1+개별테라스+개별수영장\n- 2층 : 침대룸A(퀸1)",
+      "usageGuide": "",
+      "group": null,
+      "size": 66.12,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0
+      },
+      "bedTypes": [
+        "퀸 베드"
+      ],
+      "amenities": [
+        "침대",
+        "스마트 TV",
+        "에어컨",
+        "냉장고",
+        "헤어드라이어",
+        "인덕션",
+        "가스레인지",
+        "전기밥솥",
+        "조리도구",
+        "샴푸",
+        "린스",
+        "바디워시",
+        "애견식기",
+        "애견수영장",
+        "애견운동장",
+        "개별바비큐",
+        "풀빌라",
+        "소화기"
+      ],
+      "roomViews": [
+        "오션뷰"
+      ],
+      "roomStructures": [
+        "복층",
+        "독채"
+      ],
+      "status": "active",
+      "images": [
+        {
+          "thumbnail": [],
+          "interior": [],
+          "exterior": []
+        }
+      ],
+      "displayOrder": 4
+    }
+  ],
+  "homepage": {
+    "domain": "badameong.kr",
+    "templateType": "full_banner_slider",
+    "images": [
+      {
+        "logo": []
+      }
+    ],
+    "seo": {
+      "title": "",
+      "description": "",
+      "keywords": ""
+    },
+    "socialLinks": {},
+    "customFields": {
+      "pages": {
+        "index": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "ea54d47a-e9d2-43f9-bbca-a26025238dee",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1771897991502-10vcyrp6hwo.png",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "7f121dc2-b973-4ad3-ac1c-6cfad7cb44d7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1771897991504-6p7jr4wifri.JPG",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "TAEAN BADAMUNG POOLVILLA "
+              },
+              "closing": {
+                "title": "바다멍애견풀빌라",
+                "images": [
+                  {
+                    "id": "118f3814-c962-4b5f-9030-8c62760531ee",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_closing/1771898264496-05vowtx6ycg.JPG",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": " "
+              },
+              "essence": {
+                "title": "바다멍 미리보기",
+                "images": [
+                  {
+                    "id": "4b08af65-2bd1-4508-a73f-959a6f00bd5d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_essence/1771897991561-yy831fog3g.JPG",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "a4f2d0e7-81e0-4901-8647-c4ee8c4c29c9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_essence/1771897991561-19m5rjgeyji.JPG",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "a35dea22-46ef-4e0f-a48b-ce36c916bfb2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_essence/1771897991561-mabkx33ct1l.JPG",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": false
+                  }
+                ],
+                "description": " "
+              },
+              "gallery": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "b4be0b87-2694-4604-9a15-566681dcee5e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1771897991561-hcdbkg01gw6.JPG",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
+              },
+              "signature": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "e3790633-ec35-4547-80e0-d31bcf2d41e7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_signature/1771897991562-ad7xldcf36m.JPG",
+                    "sortOrder": 0,
+                    "description": "애견풀빌라 바다멍",
+                    "isSelected": true
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "directions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": []
+              },
+              "notice": {
+                "title": "",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "main": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": []
+              },
+              "about": []
+            }
+          ]
+        },
+        "room": [],
+        "facility": [],
+        "reservation": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": []
+              },
+              "about": {
+                "title": "",
+                "images": [],
+                "description": ""
+              }
+            }
+          ]
+        }
+      },
+      "popup": {
+        "popups": []
+      },
+      "theme": {
+        "font": {
+          "koSub": null,
+          "enMain": null,
+          "koMain": null
+        },
+        "color": {
+          "primary": "#F5F5F5",
+          "secondary": "#5C82B4"
+        }
+      },
+      "property": {
+        "images": []
+      },
+      "roomtypes": [
+        {
+          "id": "ace338a1-b0f9-410d-baa5-7c51ab8d361d",
+          "images": []
+        },
+        {
+          "id": "9010ab4b-49ce-46b0-95b4-36b47cc29616",
+          "images": []
+        },
+        {
+          "id": "8d0a605c-2641-4c42-85b1-7424f914a4ce",
+          "images": []
+        },
+        {
+          "id": "5d528f3d-fe1a-424d-ae95-8e12b03ac2e6",
+          "images": []
+        }
+      ]
+    },
+    "id": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
+  }
+}

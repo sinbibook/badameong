@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-03-12T08:06:25.480Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-03-12T08:58:19.011Z",
     "templateType": "full_banner_slider",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -399,8 +399,8 @@
     ],
     "seo": {
       "title": "",
-      "description": "",
-      "keywords": ""
+      "description": "반려견과 함께하는 태안 오션뷰 감성 애견풀빌라 휴식 공간",
+      "keywords": "태안애견풀빌라,오션뷰감성숙소,반려견동반여행,애견운동장숙소,프라이빗바베큐"
     },
     "socialLinks": {},
     "customFields": {
@@ -528,9 +528,23 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "b4be0b87-2694-4604-9a15-566681dcee5e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1771897991561-hcdbkg01gw6.JPG",
+                    "id": "c38f1c63-9d4c-4cb4-9a8c-e0d2615207f5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773304898801-hynkn2dafdu.jpg",
                     "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "5b6839a0-964d-42fa-8ef2-d7d202f2168a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773304898801-y77j4hrqwmr.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "e95fcbbe-ad2b-46b7-a8ee-310cab924def",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773304898801-fhiuiwifwe6.jpg",
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   }
@@ -538,43 +552,7 @@
               },
               "signature": {
                 "title": "",
-                "images": [
-                  {
-                    "id": "3957e588-227b-420e-a84e-f5c6eb213f40",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_signature/1773302736616-198cvus19w0j.jpg",
-                    "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "e1c1cb7a-15ff-4c35-9708-8da064e75756",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_signature/1773302736616-mzlwfvijoub.jpg",
-                    "sortOrder": 1,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "e0c67886-19e2-4e59-9a24-5c2342efca5c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_signature/1773302736616-xg0w0fithx.jpg",
-                    "sortOrder": 2,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "0f980ef6-da44-4c15-afb0-b9ff20076657",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_signature/1773302736616-yl3syaoyzvl.jpg",
-                    "sortOrder": 3,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "54896f9f-36fc-45c9-a1b6-dbbbc1746717",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_signature/1773302736616-bgom37dr9po.jpg",
-                    "sortOrder": 4,
-                    "description": "",
-                    "isSelected": true
-                  }
-                ]
+                "images": []
               }
             }
           ]

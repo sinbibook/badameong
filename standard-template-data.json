@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-03-12T08:58:19.011Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-03-12T09:02:06.012Z",
     "templateType": "full_banner_slider",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -525,7 +525,7 @@
                 "description": "바다를 마주한 감성 가득한 공간, 태안 바다멍 애견 풀빌라\n반려견과 함께 자유롭게 머무는 전 객실 애견동반 스테이\n오션뷰 풀장과 애견운동장, 전기그릴 바베큐를 즐기며\n감각적인 인테리어로 완성되는 프라이빗 휴식\n사랑하는 반려견과 여행의 순간을 가장 예쁘게 채워주는 곳"
               },
               "gallery": {
-                "title": "",
+                "title": "바다멍 미리보기",
                 "images": [
                   {
                     "id": "c38f1c63-9d4c-4cb4-9a8c-e0d2615207f5",
@@ -547,8 +547,23 @@
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true
+                  },
+                  {
+                    "id": "638732f7-151b-40a1-bbca-0ba2f1284324",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773305977109-dnqkvma1svm.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "36aebcc9-6848-46a2-a1f3-bc6bac59beb1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773305977109-qv5dshwym4f.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
                   }
-                ]
+                ],
+                "description": "감성 가득한 공간과 바다를 품은 특별한 순간을 한눈에 확인해보세요."
               },
               "signature": {
                 "title": "",

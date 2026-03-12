@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-03-12T07:11:50.247Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-03-12T07:49:22.650Z",
     "templateType": "full_banner_slider",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -391,7 +391,7 @@
   ],
   "homepage": {
     "domain": "badameong.kr",
-    "templateType": "full_banner_slider",
+    "templateType": "full_banner_wipe",
     "images": [
       {
         "logo": []
@@ -409,24 +409,80 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
-                    "id": "ea54d47a-e9d2-43f9-bbca-a26025238dee",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1771897991502-10vcyrp6hwo.png",
+                    "id": "8b50b49a-bf0c-424a-a6a4-04a17d7a3992",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773299723277-ftbldigapht.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": false
+                    "isSelected": true
                   },
                   {
-                    "id": "7f121dc2-b973-4ad3-ac1c-6cfad7cb44d7",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1771897991504-6p7jr4wifri.JPG",
+                    "id": "cc3a6a42-c4b1-4c39-903c-31f2b63d1254",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773301710357-i2qh2qzkj.jpg",
                     "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "5b61c770-1fb4-46fb-9230-149f9ec0d471",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773299723277-a8t5jkyldg.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "bfe981ab-22ee-44a9-87f6-4462baeb2da4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773299723277-mks96tokudq.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "8825d23b-8d1d-4e13-84c1-c0ee82b73744",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773299723277-gdwp7hxzp1o.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "50b97a5c-68de-4f4b-abd1-2f6d80ed9d04",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773299723278-dv9u57bx04.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "b3857fa3-4561-4b88-9416-46da83d1272d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773299723278-2splf04lnja.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "16908177-97c0-4ef7-90ee-1207da6598e3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773301710357-5lgovp24yfp.jpg",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "302adfaa-a2d9-4363-90b9-ec21c655da7a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773301710357-dqwa5qy0jh8.jpg",
+                    "sortOrder": 8,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "a393c52f-0017-4d48-9602-900f4927a0b0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773301710357-ddkf51kmirh.jpg",
+                    "sortOrder": 9,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": "TAEAN BADAMUNG POOLVILLA "
+                "description": "바다멍 애견 풀빌라"
               },
               "closing": {
                 "title": "바다멍애견풀빌라",
@@ -543,17 +599,28 @@
       },
       "theme": {
         "font": {
-          "koSub": null,
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
           "enMain": null,
-          "koMain": null
+          "koMain": {
+            "cdn": null,
+            "key": "cafe24gowoonbam",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff",
+            "family": "Cafe24Gowoonbam"
+          }
         },
         "color": {
-          "primary": "#F5F5F5",
-          "secondary": "#5C82B4"
+          "primary": "#EBEDEF",
+          "secondary": "#274A77"
         }
       },
       "property": {
-        "images": []
+        "images": [],
+        "nameEn": "Badameong Pet Poolvilla"
       },
       "roomtypes": [
         {

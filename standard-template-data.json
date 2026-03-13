@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-03-13T05:04:02.729Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-03-13T05:17:44.706Z",
     "templateType": "full_banner_wipe",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -162,37 +162,30 @@
         "displayOrder": 2,
         "images": [
           {
-            "id": "a8cb1e4b-fac9-4720-9cb3-ae4e0a1b2b90",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e83dafdf-49d2-4b68-95e7-75716a207e80/main/1773367250600-60atw4cminq.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "e43f5d60-e53e-4e4f-9276-b7032962c866",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e83dafdf-49d2-4b68-95e7-75716a207e80/main/1773367250600-1qbsytceyes.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "8d559c2d-8015-4f7f-ad6e-2620ef09dd6f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e83dafdf-49d2-4b68-95e7-75716a207e80/main/1773367250600-1umewqqd3h1.jpg",
+            "id": "1a895b9c-fb64-4474-a45a-7c499a9cf9c7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e83dafdf-49d2-4b68-95e7-75716a207e80/main/1773378916579-j5haay0ztzc.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true
           },
           {
-            "id": "27dae457-8623-49fa-99bf-6ed35e650df6",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e83dafdf-49d2-4b68-95e7-75716a207e80/main/1773367250600-qh3sr3nqm5.jpg",
-            "sortOrder": 4,
+            "id": "9f726bd7-95d7-4738-83a3-8a89681168c2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e83dafdf-49d2-4b68-95e7-75716a207e80/main/1773378998947-dv6zcik532r.jpg",
+            "sortOrder": 0,
             "description": "",
             "isSelected": true
           },
           {
-            "id": "801b9d73-fd49-4643-b8b9-5be52974d6ac",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e83dafdf-49d2-4b68-95e7-75716a207e80/main/1773367250600-f3ljgbeog8.jpg",
+            "id": "98178a93-e748-4580-ab31-cab6f1d0426e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e83dafdf-49d2-4b68-95e7-75716a207e80/main/1773378998948-xm9va4i6mkf.jpg",
             "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "a20ab805-e1d2-4a33-807d-6973bcf5a30f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e83dafdf-49d2-4b68-95e7-75716a207e80/main/1773378998948-hyd81raanqw.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true
           }
@@ -248,7 +241,36 @@
         "description": "객실 내 애견 비품이 구비되어 있습니다. ",
         "usageGuide": "[애견 비품]\n- 애견 드라이룸, 애견욕조, 애견식기, 애견샴푸 등",
         "displayOrder": 4,
-        "images": []
+        "images": [
+          {
+            "id": "568f4cb3-c28a-4780-8d85-acc3557b3762",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/23b752f8-f8ce-40a9-a9ea-4ef8b5f4c708/main/1773379000201-7w0thrx5t76.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "3e59dc9f-5d7f-48ce-a5b7-a356e07ceb24",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/23b752f8-f8ce-40a9-a9ea-4ef8b5f4c708/main/1773379000201-02b4a2cz54mi.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "d6858251-8642-44bc-b096-384d9ea29372",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/23b752f8-f8ce-40a9-a9ea-4ef8b5f4c708/main/1773379000201-m5dg2n2j2p.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "67c4ffe2-f645-49b5-8729-9a4e98024b6a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/23b752f8-f8ce-40a9-a9ea-4ef8b5f4c708/main/1773379000201-8ehje83xj0l.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -843,7 +865,12 @@
             "woff2": null,
             "family": "Pretendard"
           },
-          "enMain": null,
+          "enMain": {
+            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
+            "key": "cormorant",
+            "woff2": null,
+            "family": "Cormorant"
+          },
           "koMain": {
             "cdn": null,
             "key": "cafe24gowoonbam",

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-03-13T02:13:09.247Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-03-13T02:19:22.934Z",
     "templateType": "full_banner_slider",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -727,10 +727,35 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "7cef4af0-6c83-463a-9090-466f42164af9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/main_hero/1773368250391-oeuoyeci7sk.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "바다를 마주한 감성 가득한 공간, \n태안 바다멍 애견 풀빌라\n반려견과 함께 자유롭게 머무는 \n전 객실 애견동반 스테이\n오션뷰 풀장과 애견운동장, 전기그릴 바베큐를 즐기며\n감각적인 인테리어로 완성되는 프라이빗 휴식\n사랑하는 반려견과 여행의 순간을 \n가장 예쁘게 채워주는 곳"
               },
-              "about": []
+              "about": [
+                {
+                  "title": "전 객실 오션뷰 풀빌라",
+                  "images": [
+                    {
+                      "id": "c6a7ca5a-908d-4059-a1df-c62f86bca1df",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/main_about/1773368356483-om2f637i65k.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "b6763ff3-37c5-44fa-b176-4be4c373a65d"
+                    }
+                  ],
+                  "blockId": "b6763ff3-37c5-44fa-b176-4be4c373a65d",
+                  "description": "탁 트인 바다를 마주하는 전 객실 오션뷰 풀빌라\n머무는 순간마다 여유와 특별함이 함께하는 감성 공간"
+                }
+              ]
             }
           ]
         },

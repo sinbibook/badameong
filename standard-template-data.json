@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-03-13T02:51:44.416Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-03-13T02:55:21.348Z",
     "templateType": "full_banner_wipe",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -716,8 +716,8 @@
                 "title": "오시는 길",
                 "images": [
                   {
-                    "id": "b6cc17d7-3542-4e5d-903f-eb01fa13a90b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/directions_hero/1773369648004-9mjzd1sqwcf.jpg",
+                    "id": "3728dc9e-74c2-4550-9bcc-64e1744a14ad",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/directions_hero/1773370411811-6ewtcxr5fj9.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -738,8 +738,8 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "7cef4af0-6c83-463a-9090-466f42164af9",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/main_hero/1773368250391-oeuoyeci7sk.jpg",
+                    "id": "f0b941b5-d361-4c83-92b6-9e0e2e0d0a1f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/main_hero/1773370504476-q6t22vnbiy.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -1698,6 +1698,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
   }
 }

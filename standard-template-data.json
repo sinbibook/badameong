@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.36.0",
-    "generatedAt": "2026-03-13T06:20:46.631Z",
+    "version": "1.37.0",
+    "generatedAt": "2026-03-13T09:41:16.187Z",
     "templateType": "full_banner_wipe",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -19,7 +19,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입/퇴실 안내]\n- 입실시각: 15시\n- 퇴실시각: 11시\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[펜션 이용 안내 사항]\n- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다. (현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 객실 내 고기 및 생선 등 냄새나는 요리는 금지입니다.\n\n[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 30,000원 (1박기준/현장결제)\n※ 12개월 미만 영유아 무료\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n\n[개별바베큐]\n- 바베큐 구성: 가스그릴\n- 비용: 30,000원 (1박기준/현장결제)\n\n[개별수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 사계절\n- 이용 요금: 미온수(32℃) 50,000원, 중온수(33-35℃) 70,000원  (1박기준/현장결제)\n- 애견 입수 가능\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리 무료, 초과시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 15kg 미만\n- 제한 마릿수: 객실 당 최대 3마리\n※ 공격성이 심한 반려견은 제한될 수 있습니다.\n\n[펫티켓]\n- 객실 내에서 생리중, 마킹을 하는 반려견은 기저귀, 매너 벨트를 꼭 착용해 주시길 바랍니다.\n- 객실 내 침구 및 소파에 실수 또는 심한 오염 시 세탁비가 발생됩니다.\n- 청결한 환경을 위하여 반려견 배변 시 즉시 처리해주시길 바랍니다.\n- 반려견의 돌발 행동으로 인한 모든 사고 및 피해는 보호자의 책임이므로 세심한 주의 부탁드립니다.\n- 입질이 심한 반려견은 견주님의 특별한 주의 부탁드립니다.\n\n[애견 잔디운동장]\n- 반려견과 자유롭게 이용할 수 있는 애견 잔디운동장이 있습니다. \n\n[주차장]\n- 펜션 건물앞 주차장 이용가능\n\n[주변관광지]\n- 꽃지 해수욕장\n- 안면도 자연휴양림\n- 코리아 플라워파크\n- 안면읍 수산시장\n- 백사장항\n- 태안빛축제\n- 팜카밀레 허브농원\n- 쥬라기 박물관\n- 안면암",
+    "usageGuide": "[펜션 이용 안내 사항]\n- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다. (현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 객실 내 고기 및 생선 등 냄새나는 요리는 금지입니다.\n\n[인원추가비(1박기준/현장결제)]\n- 추가인원 : 1인당 30,000원 (1박기준/현장결제)\n※ 12개월 미만 영유아 무료\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n\n[개별바베큐]\n- 바베큐 구성: 가스그릴\n- 비용: 30,000원 (1박기준/현장결제)\n\n[개별수영장]\n- 이용 객실: 전 객실\n- 운영 계절: 사계절\n- 이용 요금: 미온수(32℃) 50,000원, 중온수(33-35℃) 70,000원  (1박기준/현장결제)\n- 애견 입수 가능\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리 무료, 초과시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 15kg 미만\n- 제한 마릿수: 객실 당 최대 3마리\n※ 공격성이 심한 반려견은 제한될 수 있습니다.\n\n[펫티켓]\n- 객실 내에서 생리중, 마킹을 하는 반려견은 기저귀, 매너 벨트를 꼭 착용해 주시길 바랍니다.\n- 객실 내 침구 및 소파에 실수 또는 심한 오염 시 세탁비가 발생됩니다.\n- 청결한 환경을 위하여 반려견 배변 시 즉시 처리해주시길 바랍니다.\n- 반려견의 돌발 행동으로 인한 모든 사고 및 피해는 보호자의 책임이므로 세심한 주의 부탁드립니다.\n- 입질이 심한 반려견은 견주님의 특별한 주의 부탁드립니다.\n\n[애견 잔디운동장]\n- 반려견과 자유롭게 이용할 수 있는 애견 잔디운동장이 있습니다. \n\n[펜션 앞 갯벌]\n- 펜션 앞 갯벌체험이 가능합니다. (장비 개인지참) \n\n[주차장]\n- 펜션 건물앞 주차장 이용가능\n\n[주변관광지]\n- 꽃지 해수욕장\n- 안면도 자연휴양림\n- 코리아 플라워파크\n- 안면읍 수산시장\n- 백사장항\n- 태안빛축제\n- 팜카밀레 허브농원\n- 쥬라기 박물관\n- 안면암",
     "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "충청남도",
     "city": "태안군",
@@ -171,21 +171,21 @@
           {
             "id": "9f726bd7-95d7-4738-83a3-8a89681168c2",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e83dafdf-49d2-4b68-95e7-75716a207e80/main/1773378998947-dv6zcik532r.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "98178a93-e748-4580-ab31-cab6f1d0426e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e83dafdf-49d2-4b68-95e7-75716a207e80/main/1773378998948-xm9va4i6mkf.jpg",
-            "sortOrder": 2,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true
           },
           {
             "id": "a20ab805-e1d2-4a33-807d-6973bcf5a30f",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e83dafdf-49d2-4b68-95e7-75716a207e80/main/1773378998948-hyd81raanqw.jpg",
-            "sortOrder": 1,
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "98178a93-e748-4580-ab31-cab6f1d0426e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e83dafdf-49d2-4b68-95e7-75716a207e80/main/1773378998948-xm9va4i6mkf.jpg",
+            "sortOrder": 3,
             "description": "",
             "isSelected": true
           }
@@ -201,20 +201,27 @@
           {
             "id": "dfa7d620-4027-4c50-9517-7f239acc46ff",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38dc842c-0023-405d-b804-1c5c73e70df1/main/1773367389198-slfacipig8e.jpg",
-            "sortOrder": 1,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true
           },
           {
             "id": "aba8eb0f-b0d5-40d2-b9f8-6158e2204ee3",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38dc842c-0023-405d-b804-1c5c73e70df1/main/1773367389198-aeg9ndybizg.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true
           },
           {
             "id": "a7d530b2-0f49-490e-b011-55c818f7d04d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38dc842c-0023-405d-b804-1c5c73e70df1/main/1773367389197-01ri3uo69zh6.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "dcc94de5-b4fb-45cf-a8df-34f3403650d8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38dc842c-0023-405d-b804-1c5c73e70df1/main/1773367389198-098vh2s8fo7h.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true
@@ -222,13 +229,13 @@
           {
             "id": "dfd68ed0-69f8-4cec-8003-41a3bbe6b25d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38dc842c-0023-405d-b804-1c5c73e70df1/main/1773367389198-r6kjwua006e.jpg",
-            "sortOrder": 4,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true
           },
           {
-            "id": "dcc94de5-b4fb-45cf-a8df-34f3403650d8",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38dc842c-0023-405d-b804-1c5c73e70df1/main/1773367389198-098vh2s8fo7h.jpg",
+            "id": "d1c4ca03-243f-4fe3-a305-f5420d609532",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38dc842c-0023-405d-b804-1c5c73e70df1/main/1773394167766-i67mulxl7v.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true
@@ -604,70 +611,42 @@
                     "isSelected": true
                   },
                   {
-                    "id": "cc3a6a42-c4b1-4c39-903c-31f2b63d1254",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773301710357-i2qh2qzkj.jpg",
-                    "sortOrder": 3,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "bfe981ab-22ee-44a9-87f6-4462baeb2da4",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773299723277-mks96tokudq.jpg",
-                    "sortOrder": 4,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "16908177-97c0-4ef7-90ee-1207da6598e3",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773301710357-5lgovp24yfp.jpg",
-                    "sortOrder": 5,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "50b97a5c-68de-4f4b-abd1-2f6d80ed9d04",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773299723278-dv9u57bx04.jpg",
-                    "sortOrder": 6,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "8825d23b-8d1d-4e13-84c1-c0ee82b73744",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773299723277-gdwp7hxzp1o.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "b3857fa3-4561-4b88-9416-46da83d1272d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773299723278-2splf04lnja.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "302adfaa-a2d9-4363-90b9-ec21c655da7a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773301710357-dqwa5qy0jh8.jpg",
-                    "sortOrder": 9,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "a393c52f-0017-4d48-9602-900f4927a0b0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773301710357-ddkf51kmirh.jpg",
-                    "sortOrder": 10,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": "반려견과 함께하는 태안 오션뷰 감성 애견풀빌라 휴식 공간"
+                "description": "반려견과 함께하는 태안 오션뷰 감성 애견풀빌라 바다멍 애견 풀빌라"
               },
               "closing": {
                 "title": "바다멍 애견풀빌라",
                 "images": [
                   {
-                    "id": "711259c1-3530-4729-bc4f-f05624a8344d",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_closing/1773370154816-n53mownkpvj.jpg",
+                    "id": "0b73ae00-01eb-4159-b089-8a4f71706c16",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_closing/1773394434519-mwsy90eho1s.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -779,18 +758,18 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "f0b941b5-d361-4c83-92b6-9e0e2e0d0a1f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/main_hero/1773370504476-q6t22vnbiy.jpg",
+                    "id": "7d181af9-36b4-447a-8123-016e598cb010",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/main_hero/1773394576138-ea71e58dj3l.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": "바다를 마주한 감성 가득한 공간, \n태안 바다멍 애견 풀빌라\n반려견과 함께 자유롭게 머무는 \n전 객실 애견동반 스테이\n오션뷰 풀장과 애견운동장, 전기그릴 바베큐를 즐기며\n감각적인 인테리어로 완성되는 프라이빗 휴식\n사랑하는 반려견과 여행의 순간을 \n가장 예쁘게 채워주는 곳"
+                "description": "바다를 마주한 감성 가득한 공간, \n태안 바다멍 애견 풀빌라\n반려견과 함께 자유롭게 머무는 \n전 객실 애견동반 스테이\n태안의 보기드문 오션뷰 애견풀빌라로\n오션뷰 온수 풀장과 애견운동장, 전기그릴 바베큐를 즐기며\n감각적인 인테리어로 완성되는 프라이빗 휴식\n사랑하는 반려견과 여행의 순간을 \n가장 예쁘게 채워주는 곳"
               },
               "about": [
                 {
-                  "title": "전 객실 오션뷰 풀빌라",
+                  "title": "전 객실 오션뷰 애견풀빌라",
                   "images": [
                     {
                       "id": "c6a7ca5a-908d-4059-a1df-c62f86bca1df",
@@ -1068,8 +1047,8 @@
           "id": "ace338a1-b0f9-410d-baa5-7c51ab8d361d",
           "images": [
             {
-              "id": "5200a491-5f91-4261-8295-3a50caeb8ef7",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/roomtype_thumbnail/1773379261305-msxdnv7y6l7.jpg",
+              "id": "06c07703-c6a0-4c42-968c-d6e8066b511d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/roomtype_thumbnail/1773394810915-mo8z99ttc2.jpg",
               "sortOrder": 0,
               "description": "",
               "isSelected": true,
@@ -1271,8 +1250,8 @@
           "id": "9010ab4b-49ce-46b0-95b4-36b47cc29616",
           "images": [
             {
-              "id": "c4030903-7345-4f6e-84b7-0626189045cb",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/roomtype_thumbnail/1773379261304-nt3uzi85ga.jpg",
+              "id": "04111e57-2478-42aa-95c7-8e3d210a8e99",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/roomtype_thumbnail/1773394810915-nb7xj5ktyom.jpg",
               "sortOrder": 1,
               "description": "",
               "isSelected": true,
@@ -1647,7 +1626,7 @@
             {
               "id": "90d3f44c-2016-49f8-aa87-88144277caee",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/roomtype_exterior/1773382827923-hw89wy1nn2k.jpg",
-              "sortOrder": 15,
+              "sortOrder": 11,
               "description": "",
               "isSelected": true,
               "blockId": "8d0a605c-2641-4c42-85b1-7424f914a4ce",
@@ -1659,8 +1638,8 @@
           "id": "5d528f3d-fe1a-424d-ae95-8e12b03ac2e6",
           "images": [
             {
-              "id": "cfba6dd8-4271-4f76-8ebd-ca597f7ea692",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/roomtype_thumbnail/1773299493537-5f1uv2ft1ui.jpg",
+              "id": "f1027047-43d2-4fda-897f-35e27c5a5583",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/roomtype_thumbnail/1773394810915-7hynun3w0ly.jpg",
               "sortOrder": 3,
               "description": "",
               "isSelected": true,
@@ -1805,7 +1784,7 @@
             {
               "id": "e4f4d1fb-c72f-4f85-8587-8cf75600df39",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/roomtype_exterior/1773382708191-bzq2wz4yw2a.jpg",
-              "sortOrder": 11,
+              "sortOrder": 12,
               "description": "",
               "isSelected": true,
               "blockId": "5d528f3d-fe1a-424d-ae95-8e12b03ac2e6",
@@ -1814,7 +1793,7 @@
             {
               "id": "cd270d8c-5fd6-4e13-8397-80e71ea7d589",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/roomtype_exterior/1773299493537-4zxd84dqtru.jpg",
-              "sortOrder": 12,
+              "sortOrder": 13,
               "description": "",
               "isSelected": true,
               "blockId": "5d528f3d-fe1a-424d-ae95-8e12b03ac2e6",
@@ -1823,7 +1802,7 @@
             {
               "id": "cf773931-19b4-4e06-852c-e8b5f5faf02e",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/roomtype_exterior/1773299493537-7jcaug43ek5.jpg",
-              "sortOrder": 13,
+              "sortOrder": 14,
               "description": "",
               "isSelected": true,
               "blockId": "5d528f3d-fe1a-424d-ae95-8e12b03ac2e6",
@@ -1832,7 +1811,7 @@
             {
               "id": "9a495a9c-b02e-4156-b618-af646b9860bc",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/roomtype_exterior/1773299493537-1vbopgpqoa6h.jpg",
-              "sortOrder": 14,
+              "sortOrder": 15,
               "description": "",
               "isSelected": true,
               "blockId": "5d528f3d-fe1a-424d-ae95-8e12b03ac2e6",

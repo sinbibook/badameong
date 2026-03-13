@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-03-13T05:17:44.706Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-03-13T05:18:10.774Z",
     "templateType": "full_banner_wipe",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -879,8 +879,8 @@
           }
         },
         "color": {
-          "primary": "#EBEDEF",
-          "secondary": "#274A77"
+          "primary": "#F5FAFF",
+          "secondary": "#294161"
         }
       },
       "popup": {

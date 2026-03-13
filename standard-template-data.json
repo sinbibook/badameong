@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-03-13T02:24:07.602Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-03-13T02:36:00.900Z",
     "templateType": "full_banner_slider",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -713,12 +713,20 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "오시는 길",
+                "images": [
+                  {
+                    "id": "b1482069-9dec-45a1-8aa1-b6d6b6d01ef2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/directions_hero/1773369285954-6bzg142o5b.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": " ",
+                "description": " "
               }
             }
           ]
@@ -795,13 +803,21 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "920ab9d2-f1d3-4227-a8ff-efa0d69fb15e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/reservation_hero/1773369354855-dg7boelbrot.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
-                "title": "",
+                "title": " ",
                 "images": [],
-                "description": ""
+                "description": " "
               }
             }
           ]

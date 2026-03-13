@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-03-13T02:36:00.900Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-03-13T02:49:48.618Z",
     "templateType": "full_banner_slider",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -563,8 +563,8 @@
                     "isSelected": true
                   },
                   {
-                    "id": "5b61c770-1fb4-46fb-9230-149f9ec0d471",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773299723277-a8t5jkyldg.jpg",
+                    "id": "8f1af994-ef01-4310-8b51-7c609fc3202d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773369648003-gdpmq6oj94a.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true
@@ -625,8 +625,8 @@
                 "title": "바다멍애견풀빌라",
                 "images": [
                   {
-                    "id": "f9f0a2e7-64d0-41c5-a1a9-fc351e2da3cb",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_closing/1773302768593-jpmvtxtvag.jpg",
+                    "id": "711259c1-3530-4729-bc4f-f05624a8344d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_closing/1773370154816-n53mownkpvj.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -668,35 +668,35 @@
                     "id": "c38f1c63-9d4c-4cb4-9a8c-e0d2615207f5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773304898801-hynkn2dafdu.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "전객실 풀장",
                     "isSelected": true
                   },
                   {
                     "id": "5b6839a0-964d-42fa-8ef2-d7d202f2168a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773304898801-y77j4hrqwmr.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "전기그릴 바베큐",
                     "isSelected": true
                   },
                   {
                     "id": "e95fcbbe-ad2b-46b7-a8ee-310cab924def",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773304898801-fhiuiwifwe6.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "감성무드 공간",
                     "isSelected": true
                   },
                   {
                     "id": "638732f7-151b-40a1-bbca-0ba2f1284324",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773305977109-dnqkvma1svm.jpg",
                     "sortOrder": 3,
-                    "description": "",
+                    "description": "애견동반소품",
                     "isSelected": true
                   },
                   {
-                    "id": "36aebcc9-6848-46a2-a1f3-bc6bac59beb1",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773305977109-qv5dshwym4f.jpg",
+                    "id": "8a12e884-966f-4df0-93e9-9ec2a582fdd9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773369648004-s0lev5uj86.jpg",
                     "sortOrder": 4,
-                    "description": "",
+                    "description": "애견운동장",
                     "isSelected": true
                   }
                 ],
@@ -716,8 +716,8 @@
                 "title": "오시는 길",
                 "images": [
                   {
-                    "id": "b1482069-9dec-45a1-8aa1-b6d6b6d01ef2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/directions_hero/1773369285954-6bzg142o5b.jpg",
+                    "id": "b6cc17d7-3542-4e5d-903f-eb01fa13a90b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/directions_hero/1773369648004-9mjzd1sqwcf.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true

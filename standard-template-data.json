@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.37.0",
-    "generatedAt": "2026-03-13T09:41:16.187Z",
+    "version": "1.38.0",
+    "generatedAt": "2026-03-13T09:47:46.778Z",
     "templateType": "full_banner_wipe",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -208,7 +208,7 @@
           {
             "id": "aba8eb0f-b0d5-40d2-b9f8-6158e2204ee3",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38dc842c-0023-405d-b804-1c5c73e70df1/main/1773367389198-aeg9ndybizg.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true
           },
@@ -220,16 +220,16 @@
             "isSelected": true
           },
           {
-            "id": "dcc94de5-b4fb-45cf-a8df-34f3403650d8",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38dc842c-0023-405d-b804-1c5c73e70df1/main/1773367389198-098vh2s8fo7h.jpg",
-            "sortOrder": 0,
+            "id": "dfd68ed0-69f8-4cec-8003-41a3bbe6b25d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38dc842c-0023-405d-b804-1c5c73e70df1/main/1773367389198-r6kjwua006e.jpg",
+            "sortOrder": 5,
             "description": "",
             "isSelected": true
           },
           {
-            "id": "dfd68ed0-69f8-4cec-8003-41a3bbe6b25d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38dc842c-0023-405d-b804-1c5c73e70df1/main/1773367389198-r6kjwua006e.jpg",
-            "sortOrder": 5,
+            "id": "dcc94de5-b4fb-45cf-a8df-34f3403650d8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/38dc842c-0023-405d-b804-1c5c73e70df1/main/1773367389198-098vh2s8fo7h.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true
           },
@@ -257,13 +257,6 @@
             "isSelected": true
           },
           {
-            "id": "3e59dc9f-5d7f-48ce-a5b7-a356e07ceb24",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/23b752f8-f8ce-40a9-a9ea-4ef8b5f4c708/main/1773379000201-02b4a2cz54mi.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "d6858251-8642-44bc-b096-384d9ea29372",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/23b752f8-f8ce-40a9-a9ea-4ef8b5f4c708/main/1773379000201-m5dg2n2j2p.jpg",
             "sortOrder": 2,
@@ -273,6 +266,13 @@
           {
             "id": "67c4ffe2-f645-49b5-8729-9a4e98024b6a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/23b752f8-f8ce-40a9-a9ea-4ef8b5f4c708/main/1773379000201-8ehje83xj0l.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "a15afa42-fdb4-44b9-9ad2-e2b53f38e28d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/23b752f8-f8ce-40a9-a9ea-4ef8b5f4c708/main/1773395171306-io8shxq70p.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true
@@ -784,7 +784,7 @@
                   "description": "탁 트인 바다를 마주하는 전 객실 오션뷰 풀빌라\n머무는 순간마다 여유와 특별함이 함께하는 감성 공간"
                 },
                 {
-                  "title": "전 객실 애견운동장",
+                  "title": "전 객실 개별 애견운동장",
                   "images": [
                     {
                       "id": "9b6aab49-4432-41de-b699-4a6f506f1d7b",

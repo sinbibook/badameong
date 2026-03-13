@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-03-13T02:19:22.934Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-03-13T02:23:35.609Z",
     "templateType": "full_banner_slider",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -754,6 +754,36 @@
                   ],
                   "blockId": "b6763ff3-37c5-44fa-b176-4be4c373a65d",
                   "description": "탁 트인 바다를 마주하는 전 객실 오션뷰 풀빌라\n머무는 순간마다 여유와 특별함이 함께하는 감성 공간"
+                },
+                {
+                  "title": "전 객실 애견운동장",
+                  "images": [
+                    {
+                      "id": "9b6aab49-4432-41de-b699-4a6f506f1d7b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/main_about/1773368509518-7thnok6rgv2.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "e1731710-009d-4285-86fd-46336b9f0111"
+                    }
+                  ],
+                  "blockId": "e1731710-009d-4285-86fd-46336b9f0111",
+                  "description": "반려견이 뛰어놀수 있는 공간"
+                },
+                {
+                  "title": "태안멍만의 감성무드",
+                  "images": [
+                    {
+                      "id": "31cb61df-f69f-454d-a03f-36e0cd969931",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/main_about/1773368609705-kj3vy5iduis.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "1d2823e8-0585-4f6a-89e7-e98dd3b42481"
+                    }
+                  ],
+                  "blockId": "1d2823e8-0585-4f6a-89e7-e98dd3b42481",
+                  "description": "감각적인 인테리어와 감성 소품으로 채워진 공간\n태안멍 애견 풀빌라만의 특별한 무드"
                 }
               ]
             }

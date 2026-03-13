@@ -1,1 +1,1 @@
-# badameong
+# template-full-banner-wipe

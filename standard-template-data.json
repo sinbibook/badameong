@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.40.0",
-    "generatedAt": "2026-03-16T00:12:28.083Z",
+    "version": "1.41.0",
+    "generatedAt": "2026-03-16T00:37:30.659Z",
     "templateType": "full_banner_wipe",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -611,30 +611,37 @@
                     "isSelected": true
                   },
                   {
+                    "id": "46cee7eb-ebfc-48f8-b0a9-4e25e598e4a2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773621408111-gy9bdic4nud.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "50b97a5c-68de-4f4b-abd1-2f6d80ed9d04",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773299723278-dv9u57bx04.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "b3857fa3-4561-4b88-9416-46da83d1272d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773299723278-2splf04lnja.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "302adfaa-a2d9-4363-90b9-ec21c655da7a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773301710357-dqwa5qy0jh8.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "a393c52f-0017-4d48-9602-900f4927a0b0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_hero/1773301710357-ddkf51kmirh.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true
                   }
@@ -699,24 +706,24 @@
                     "isSelected": true
                   },
                   {
+                    "id": "d6e233fb-62b3-47a5-af86-5cfb4c2efa32",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773621408112-wvwvbo7gvv.jpg",
+                    "sortOrder": 2,
+                    "description": "포토존",
+                    "isSelected": true
+                  },
+                  {
                     "id": "e95fcbbe-ad2b-46b7-a8ee-310cab924def",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773304898801-fhiuiwifwe6.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "감성무드 공간",
                     "isSelected": true
                   },
                   {
                     "id": "638732f7-151b-40a1-bbca-0ba2f1284324",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773305977109-dnqkvma1svm.jpg",
-                    "sortOrder": 3,
-                    "description": "애견비품",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "5b6839a0-964d-42fa-8ef2-d7d202f2168a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773304898801-y77j4hrqwmr.jpg",
                     "sortOrder": 4,
-                    "description": "전기그릴 바베큐",
+                    "description": "애견비품",
                     "isSelected": true
                   }
                 ],

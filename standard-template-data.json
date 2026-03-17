@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.45.0",
-    "generatedAt": "2026-03-17T00:35:59.385Z",
+    "version": "1.46.0",
+    "generatedAt": "2026-03-17T02:26:43.604Z",
     "templateType": "full_banner_wipe",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -899,8 +899,8 @@
                     "isSelected": true
                   },
                   {
-                    "id": "e95fcbbe-ad2b-46b7-a8ee-310cab924def",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773304898801-fhiuiwifwe6.jpg",
+                    "id": "64102a81-30fb-4916-8bc8-7768d5270871",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/index_gallery/1773714390308-qefz41eblds.jpg",
                     "sortOrder": 3,
                     "description": "감성무드 공간",
                     "isSelected": true
@@ -2035,6 +2035,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
   }
 }

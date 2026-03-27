@@ -205,7 +205,8 @@ html.menu-open {
 }
 
 /* Circular Button Base Styles */
-.circular-reservation-btn {
+.circular-reservation-btn,
+.circular-ybs-btn {
     width: 80px;
     height: 80px;
     position: relative;
@@ -224,26 +225,34 @@ html.menu-open {
     gap: 20px;
 }
 
-.circular-reservation-btn {
+.circular-ybs-btn {
     order: 2;
+    display: none; /* 기본 숨김 - ybsId 있을 때만 JS로 표시 */
+}
+
+.circular-reservation-btn {
+    order: 1;
 }
 
 .hamburger-button {
     order: 3;
 }
 
-.circular-reservation-btn:hover {
+.circular-reservation-btn:hover,
+.circular-ybs-btn:hover {
     transform: scale(1.05);
 }
 
-.circular-reservation-btn .rotating-text {
+.circular-reservation-btn .rotating-text,
+.circular-ybs-btn .rotating-text {
     position: absolute;
     width: 100%;
     height: 100%;
     animation: rotate 10s linear infinite;
 }
 
-.circular-reservation-btn text {
+.circular-reservation-btn text,
+.circular-ybs-btn text {
     fill: white;
     font-size: 9px;
     font-weight: 500;
@@ -251,7 +260,8 @@ html.menu-open {
     text-transform: uppercase;
 }
 
-.circular-reservation-btn .btn-center {
+.circular-reservation-btn .btn-center,
+.circular-ybs-btn .btn-center {
     position: absolute;
     width: 50px;
     height: 50px;
@@ -271,7 +281,8 @@ html.menu-open {
     height: 24px;
 }
 
-.circular-reservation-btn:hover .btn-center {
+.circular-reservation-btn:hover .btn-center,
+.circular-ybs-btn:hover .btn-center {
     background: rgba(255, 255, 255, 0.3);
     border-color: rgba(255, 255, 255, 0.5);
 }
@@ -306,18 +317,21 @@ html.menu-open {
     transform: translateY(-2px);
 }
 
-.top-header.scrolled .circular-reservation-btn text {
+.top-header.scrolled .circular-reservation-btn text,
+.top-header.scrolled .circular-ybs-btn text {
     fill: var(--color-secondary, #658399);
     opacity: 0.8;
 }
 
-.top-header.scrolled .circular-reservation-btn .btn-center {
+.top-header.scrolled .circular-reservation-btn .btn-center,
+.top-header.scrolled .circular-ybs-btn .btn-center {
     background: var(--color-secondary, #658399);
     color: white;
     border-color: var(--color-secondary, #658399);
 }
 
-.top-header.scrolled .circular-reservation-btn:hover .btn-center {
+.top-header.scrolled .circular-reservation-btn:hover .btn-center,
+.top-header.scrolled .circular-ybs-btn:hover .btn-center {
     background: var(--color-secondary, #658399);
     opacity: 0.8;
     border-color: var(--color-secondary, #658399);
@@ -752,7 +766,8 @@ body .header-opened.expanded {
 }
 
 /* Mobile Circular Buttons */
-.mobile-circular-reservation-btn {
+.mobile-circular-reservation-btn,
+.mobile-circular-ybs-btn {
     width: 65px;
     height: 65px;
     position: relative;
@@ -765,14 +780,20 @@ body .header-opened.expanded {
     border-radius: 50%;
 }
 
-.mobile-circular-reservation-btn .rotating-text {
+.mobile-circular-ybs-btn {
+    display: none; /* 기본 숨김 - ybsId 있을 때만 JS로 표시 */
+}
+
+.mobile-circular-reservation-btn .rotating-text,
+.mobile-circular-ybs-btn .rotating-text {
     position: absolute;
     width: 100%;
     height: 100%;
     animation: rotate 10s linear infinite;
 }
 
-.mobile-circular-reservation-btn text {
+.mobile-circular-reservation-btn text,
+.mobile-circular-ybs-btn text {
     fill: white;
     font-size: 7px;
     font-weight: 500;
@@ -780,7 +801,8 @@ body .header-opened.expanded {
     text-transform: uppercase;
 }
 
-.mobile-circular-reservation-btn .btn-center {
+.mobile-circular-reservation-btn .btn-center,
+.mobile-circular-ybs-btn .btn-center {
     position: absolute;
     width: 42px;
     height: 42px;
@@ -800,7 +822,8 @@ body .header-opened.expanded {
     height: 20px;
 }
 
-.mobile-circular-reservation-btn:hover {
+.mobile-circular-reservation-btn:hover,
+.mobile-circular-ybs-btn:hover {
     transform: scale(1.05);
 }
 
@@ -820,25 +843,29 @@ body .header-opened.expanded {
     }
 
     /* Hide original mobile buttons in header */
-    .header-buttons .circular-reservation-btn {
+    .header-buttons .circular-reservation-btn,
+    .header-buttons .circular-ybs-btn {
         display: none !important;
     }
 
 
     /* 모바일에서 rotating text 숨기기 */
-    .mobile-circular-reservation-btn .rotating-text {
+    .mobile-circular-reservation-btn .rotating-text,
+    .mobile-circular-ybs-btn .rotating-text {
         display: none !important;
     }
 
     /* 모바일 버튼 크기 조정 */
-    .mobile-circular-reservation-btn {
+    .mobile-circular-reservation-btn,
+    .mobile-circular-ybs-btn {
         width: 55px;
         height: 55px;
         background: var(--color-secondary, #658399);
         border: 2px solid white;
     }
 
-    .mobile-circular-reservation-btn .btn-center {
+    .mobile-circular-reservation-btn .btn-center,
+    .mobile-circular-ybs-btn .btn-center {
         position: relative;
         width: 100%;
         height: 100%;
@@ -851,6 +878,10 @@ body .header-opened.expanded {
         height: 24px;
     }
 
+    .mobile-circular-ybs-btn .btn-center {
+        font-size: 16px;
+        font-weight: 700;
+    }
 }
 
 @media (max-width: 480px) {
@@ -861,7 +892,8 @@ body .header-opened.expanded {
     }
 
     /* 480px 이하에서도 동일한 스타일 적용 */
-    .mobile-circular-reservation-btn {
+    .mobile-circular-reservation-btn,
+    .mobile-circular-ybs-btn {
         width: 55px;
         height: 55px;
     }

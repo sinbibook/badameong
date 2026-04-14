@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.49.0",
-    "generatedAt": "2026-03-27T05:09:23.599Z",
+    "version": "1.50.0",
+    "generatedAt": "2026-04-14T06:12:32.588Z",
     "templateType": "full_banner_wipe",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -529,18 +529,35 @@
   "rooms": [
     {
       "id": "ace338a1-b0f9-410d-baa5-7c51ab8d361d",
-      "name": "한마리 (독채, 애견풀빌라)",
+      "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
+      "propertyName": "태안 바다멍애견풀빌라",
+      "name": "풀빌라1 (애견1마리무료,독채풀빌라)",
+      "nameEn": "Pool Villa 1 (Private Pet Pool Villa)",
       "description": "복층독채형:\n- 1층: 거실 겸 주방+화장실1+개별테라스+개별수영장\n- 2층 : 침대룸A(퀸1)",
       "roomInfo": "[인원추가비]\n- 기준인원 초과 시 추가비용 1인당 30,000원 (1박 기준/현장결제)\n※ 12개월 미만 영유아 무료\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n\n[애견동반]\n- 이용 요금: 1마리 무료, 초과시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 15kg 미만\n- 제한 마릿수: 객실 당 최대 3마리\n※ 공격성이 심한 반려견은 제한될 수 있습니다.\n\n[펫티켓]\n- 객실 내에서 생리중, 마킹을 하는 반려견은 기저귀, 매너 벨트를 꼭 착용해 주시길 바랍니다.\n- 객실 내 침구 및 소파에 실수 또는 심한 오염 시 세탁비가 발생됩니다.\n- 청결한 환경을 위하여 반려견 배변 시 즉시 처리해주시길 바랍니다.\n- 반려견의 돌발 행동으로 인한 모든 사고 및 피해는 보호자의 책임이므로 세심한 주의 부탁드립니다.\n- 입질이 심한 반려견은 견주님의 특별한 주의 부탁드립니다.",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
+      "sizePyeong": 20,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -575,6 +592,7 @@
         "독채"
       ],
       "status": "active",
+      "bankAccountId": "74ea4d89-94f8-4207-8f08-6eeeeb3d2823",
       "images": [
         {
           "thumbnail": [],
@@ -582,22 +600,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 1
+      "displayOrder": 1,
+      "createdAt": "2026-02-12T05:53:46.488Z",
+      "updatedAt": "2026-04-14T06:11:04.521Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "9010ab4b-49ce-46b0-95b4-36b47cc29616",
-      "name": "두마리 (독채, 애견풀빌라)",
+      "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
+      "propertyName": "태안 바다멍애견풀빌라",
+      "name": "풀빌라2 (애견1마리무료,독채풀빌라)",
+      "nameEn": "Pool Villa 2 (Private Pet Pool Villa)",
       "description": "복층독채형:\n- 1층: 거실 겸 주방+화장실1+개별테라스+개별수영장\n- 2층 : 침대룸A(퀸1)",
       "roomInfo": "[인원추가비]\n- 기준인원 초과 시 추가비용 1인당 30,000원 (1박 기준/현장결제)\n※ 12개월 미만 영유아 무료\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n\n[애견동반]\n- 이용 요금: 1마리 무료, 초과시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 15kg 미만\n- 제한 마릿수: 객실 당 최대 3마리\n※ 공격성이 심한 반려견은 제한될 수 있습니다.\n\n[펫티켓]\n- 객실 내에서 생리중, 마킹을 하는 반려견은 기저귀, 매너 벨트를 꼭 착용해 주시길 바랍니다.\n- 객실 내 침구 및 소파에 실수 또는 심한 오염 시 세탁비가 발생됩니다.\n- 청결한 환경을 위하여 반려견 배변 시 즉시 처리해주시길 바랍니다.\n- 반려견의 돌발 행동으로 인한 모든 사고 및 피해는 보호자의 책임이므로 세심한 주의 부탁드립니다.\n- 입질이 심한 반려견은 견주님의 특별한 주의 부탁드립니다.",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
+      "sizePyeong": 20,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -631,6 +670,7 @@
         "독채"
       ],
       "status": "active",
+      "bankAccountId": "74ea4d89-94f8-4207-8f08-6eeeeb3d2823",
       "images": [
         {
           "thumbnail": [],
@@ -638,22 +678,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 2
+      "displayOrder": 2,
+      "createdAt": "2026-02-12T05:57:41.906Z",
+      "updatedAt": "2026-04-14T06:11:24.166Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "8d0a605c-2641-4c42-85b1-7424f914a4ce",
-      "name": "세마리 (독채, 애견풀빌라)",
+      "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
+      "propertyName": "태안 바다멍애견풀빌라",
+      "name": "풀빌라3 (애견1마리무료,독채풀빌라)",
+      "nameEn": "Pool Villa 3 (Private Pet Pool Villa)",
       "description": "복층독채형:\n- 1층: 거실 겸 주방+화장실1+개별테라스+개별수영장\n- 2층 : 침대룸A(퀸1)",
       "roomInfo": "[인원추가비]\n- 기준인원 초과 시 추가비용 1인당 30,000원 (1박 기준/현장결제)\n※ 12개월 미만 영유아 무료\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n\n[애견동반]\n- 이용 요금: 1마리 무료, 초과시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 15kg 미만\n- 제한 마릿수: 객실 당 최대 3마리\n※ 공격성이 심한 반려견은 제한될 수 있습니다.\n\n[펫티켓]\n- 객실 내에서 생리중, 마킹을 하는 반려견은 기저귀, 매너 벨트를 꼭 착용해 주시길 바랍니다.\n- 객실 내 침구 및 소파에 실수 또는 심한 오염 시 세탁비가 발생됩니다.\n- 청결한 환경을 위하여 반려견 배변 시 즉시 처리해주시길 바랍니다.\n- 반려견의 돌발 행동으로 인한 모든 사고 및 피해는 보호자의 책임이므로 세심한 주의 부탁드립니다.\n- 입질이 심한 반려견은 견주님의 특별한 주의 부탁드립니다.",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
+      "sizePyeong": 20,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -687,6 +748,7 @@
         "독채"
       ],
       "status": "active",
+      "bankAccountId": "74ea4d89-94f8-4207-8f08-6eeeeb3d2823",
       "images": [
         {
           "thumbnail": [],
@@ -694,22 +756,43 @@
           "exterior": []
         }
       ],
-      "displayOrder": 3
+      "displayOrder": 3,
+      "createdAt": "2026-02-12T05:57:42.021Z",
+      "updatedAt": "2026-04-14T06:11:45.322Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
     {
       "id": "5d528f3d-fe1a-424d-ae95-8e12b03ac2e6",
-      "name": "네마리 (독채, 애견풀빌라)",
+      "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
+      "propertyName": "태안 바다멍애견풀빌라",
+      "name": "풀빌라4 (애견1마리무료,독채풀빌라)",
+      "nameEn": "Pool Villa 4 (Private Pet Pool Villa)",
       "description": "복층독채형:\n- 1층: 거실 겸 주방+화장실1+개별테라스+개별수영장\n- 2층 : 침대룸A(퀸1)",
       "roomInfo": "[인원추가비]\n- 기준인원 초과 시 추가비용 1인당 30,000원 (1박 기준/현장결제)\n※ 12개월 미만 영유아 무료\n※ 영유아 기준인원 포함 / 최대인원 초과불가\n\n[애견동반]\n- 이용 요금: 1마리 무료, 초과시 1마리당 20,000원 (1박기준/현장결제)\n- 제한 무게: 15kg 미만\n- 제한 마릿수: 객실 당 최대 3마리\n※ 공격성이 심한 반려견은 제한될 수 있습니다.\n\n[펫티켓]\n- 객실 내에서 생리중, 마킹을 하는 반려견은 기저귀, 매너 벨트를 꼭 착용해 주시길 바랍니다.\n- 객실 내 침구 및 소파에 실수 또는 심한 오염 시 세탁비가 발생됩니다.\n- 청결한 환경을 위하여 반려견 배변 시 즉시 처리해주시길 바랍니다.\n- 반려견의 돌발 행동으로 인한 모든 사고 및 피해는 보호자의 책임이므로 세심한 주의 부탁드립니다.\n- 입질이 심한 반려견은 견주님의 특별한 주의 부탁드립니다.",
       "usageGuide": "",
       "group": null,
       "size": 66.12,
+      "sizePyeong": 20,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
         "bedroom": 1,
         "bathroom": 1,
-        "livingRoom": 0
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "barbecueState": "Y",
+        "poolState": "Y"
+      },
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "퀸 베드"
@@ -743,6 +826,7 @@
         "독채"
       ],
       "status": "active",
+      "bankAccountId": "74ea4d89-94f8-4207-8f08-6eeeeb3d2823",
       "images": [
         {
           "thumbnail": [],
@@ -750,7 +834,11 @@
           "exterior": []
         }
       ],
-      "displayOrder": 4
+      "displayOrder": 4,
+      "createdAt": "2026-02-12T05:57:42.001Z",
+      "updatedAt": "2026-04-14T06:12:02.729Z",
+      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
+      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     }
   ],
   "homepage": {
@@ -832,7 +920,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "반려견과 함께하는 태안 오션뷰 감성 애견풀빌라 바다멍 애견 풀빌라"
+                "description": "반려견과 함께하는 태안 오션뷰 감성 애견풀빌라 바다멍 애견 풀빌라",
+                "mediaType": "image",
+                "videos": []
               },
               "closing": {
                 "title": "바다멍 애견풀빌라",
@@ -845,7 +935,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " "
+                "description": " ",
+                "mediaType": "image",
+                "videos": []
               },
               "essence": {
                 "title": " ",
@@ -872,7 +964,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "바다를 마주한 감성 가득한 공간, 태안 바다멍 애견 풀빌라\n반려견과 함께 자유롭게 머무는 전 객실 애견동반 스테이\n오션뷰 풀장과 애견운동장, 전기그릴 바베큐를 즐기며\n감각적인 인테리어로 완성되는 프라이빗 휴식\n사랑하는 반려견과 여행의 순간을 가장 예쁘게 채워주는 곳"
+                "description": "바다를 마주한 감성 가득한 공간, 태안 바다멍 애견 풀빌라\n반려견과 함께 자유롭게 머무는 전 객실 애견동반 스테이\n오션뷰 풀장과 애견운동장, 전기그릴 바베큐를 즐기며\n감각적인 인테리어로 완성되는 프라이빗 휴식\n사랑하는 반려견과 여행의 순간을 가장 예쁘게 채워주는 곳",
+                "mediaType": "image",
+                "videos": []
               },
               "gallery": {
                 "title": "바다멍 미리보기",
@@ -913,11 +1007,15 @@
                     "isSelected": true
                   }
                 ],
-                "description": "감성 가득한 공간과 바다를 품은 특별한 순간을 한눈에 확인해보세요."
+                "description": "감성 가득한 공간과 바다를 품은 특별한 순간을 한눈에 확인해보세요.",
+                "mediaType": "image",
+                "videos": []
               },
               "signature": {
                 "title": "",
-                "images": []
+                "images": [],
+                "mediaType": "image",
+                "videos": []
               }
             }
           ]
@@ -2035,6 +2133,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
   }
 }

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.55.0",
-    "generatedAt": "2026-05-20T03:02:28.097763855Z",
+    "version": "1.56.0",
+    "generatedAt": "2026-06-12T09:24:34.713590262Z",
     "templateType": "full_banner_wipe",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -11,7 +11,7 @@
     "name": "태안 바다멍애견풀빌라",
     "description": "",
     "subtitle": "",
-    "address": "충청남도 태안군 고남면 대야로 202",
+    "address": "충남 태안군 고남면 대야로 202",
     "latitude": 36.4573613661996,
     "longitude": 126.408557067973,
     "contactPhone": "010-3432-2503",
@@ -454,7 +454,9 @@
     "refundSettings": {
       "customerRefundNotice": "",
       "immediateRefundEnabled": false,
-      "immediateRefundTimeLimit": "60"
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "60",
+      "sameDayReservationHourLimit": null
     },
     "images": [
       {
@@ -1311,6 +1313,27 @@
             "endDate": "2026-08-31",
             "sortOrder": 1,
             "startDate": "2026-05-20",
+            "description": ""
+          },
+          {
+            "id": "424b274a-300c-4b00-9fd9-d04f10ab235a",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "16705cf7-1669-488b-9506-afdfffeb6164",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/6fde4b3f-a942-4a50-8b82-6fc0884d86f5/popup/1781256272615-m4m2rqzunt.jpg",
+                "sortOrder": 2,
+                "description": "",
+                "isSelected": true,
+                "blockId": "424b274a-300c-4b00-9fd9-d04f10ab235a"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": "2026-07-31",
+            "sortOrder": 2,
+            "startDate": "2026-06-12",
             "description": ""
           }
         ]

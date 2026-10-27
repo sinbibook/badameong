@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Footer Component</title>
+    <title>태안 바다멍애견풀빌라</title>
     <link rel="stylesheet" href="styles/footer.css">
   <!-- Open Graph Meta Tags for Social Media -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content="태안 바다멍애견풀빌라" />
-  
-  <meta property="og:image" content="https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/831f8749-1836-48e5-8c17-3d08d0d6008d/thumbnail/1773622458320-ftz2kzd1176.jpg" />
+  <meta property="og:description" content="반려견과 함께 자유롭게 머무는 전 객실 애견동반 스테이 오션뷰 풀장과 애견운동장이 있는 태안 바다멍애견풀빌라 입니다." />
+  <meta property="og:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/gelzPXp4K3fy.jpg" />
   <meta property="og:url" content="https://badameong.kr" />
 
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="태안 바다멍애견풀빌라" />
-  
-  <meta name="twitter:image" content="https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/831f8749-1836-48e5-8c17-3d08d0d6008d/thumbnail/1773622458320-ftz2kzd1176.jpg" />
+  <meta name="twitter:description" content="반려견과 함께 자유롭게 머무는 전 객실 애견동반 스테이 오션뷰 풀장과 애견운동장이 있는 태안 바다멍애견풀빌라 입니다." />
+  <meta name="twitter:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/07/gelzPXp4K3fy.jpg" />
 </head>
 <body>
     <!-- Footer Component -->
@@ -26,7 +26,7 @@
             <!-- Left Section - 30% -->
             <div class="footer-left">
                 <div class="footer-logo-image">
-                    <!-- <img data-footer-logo src="images/logo.png" alt="로고" class="footer-logo-img"> -->
+                    <img data-footer-logo alt="로고" class="footer-logo-img" style="display:none;">
                 </div>
                 <div class="footer-logo-text" data-footer-logo-text></div>
                 <div class="footer-phone">
@@ -78,6 +78,11 @@
                         </div>
                     </div>
                     <div class="footer-copyright">
+                        <!-- data-* 속성 : data-footer-rural-stay-mark-wrap (customFields.footer.ruralStayMark 가 있을 때만 노출, 기본 숨김)
+                             data-footer-rural-stay-mark : 농어촌민박사업자 이미지 (표시마크 + 신고번호, alt = description) -->
+                        <div class="footer-rural-stay-mark-wrap" data-footer-rural-stay-mark-wrap style="display: none;">
+                            <img class="footer-rural-stay-mark" src="" alt="농어촌민박사업자" data-footer-rural-stay-mark>
+                        </div>
                         <p data-footer-copyright></p>
                     </div>
                 </div>

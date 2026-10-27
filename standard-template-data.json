@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.61.0",
-    "generatedAt": "2026-10-27T00:46:45.776574441Z",
+    "version": "1.62.0",
+    "generatedAt": "2026-10-27T00:47:08.618177974Z",
     "templateType": "full_banner_wipe",
     "propertyId": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "homepageId": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
@@ -9,6 +9,7 @@
   "property": {
     "id": "831f8749-1836-48e5-8c17-3d08d0d6008d",
     "name": "태안 바다멍애견풀빌라",
+    "nameEn": "Taean Badameong Pet Pool Villa",
     "description": "반려견과 함께 자유롭게 머무는 전 객실 애견동반 스테이 오션뷰 풀장과 애견운동장이 있는 태안 바다멍애견풀빌라 입니다.",
     "subtitle": "",
     "address": "충남 태안군 고남면 대야로 202 바다멍애견풀빌라",
@@ -25,6 +26,12 @@
     "reservationGuide": "- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다. (현장 결제)\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n- 객실 내 고기 및 생선 등 냄새나는 요리는 금지입니다.",
     "province": "충청남도",
     "city": "태안군",
+    "domain": "badameong.kr",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/2090370548",
+    "ybsId": "",
+    "tripPropertyId": "11049",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서",
     "amenities": [
       "주차장",
       "흡연구역(지정장소)"
@@ -50,8 +57,7 @@
       "businessEmail": "",
       "businessType": "corporate",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": "",
-      "ecommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -538,14 +544,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "nameEn": "Taean Badameong Pet Pool Villa",
-    "domain": "badameong.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/2090370548",
-    "ybsId": "",
-    "tripPropertyId": "11049",
-    "partnerType": "distributor_b",
-    "tripProviderName": "(주)신비서"
+    ]
   },
   "rooms": [
     {
@@ -1410,6 +1409,7 @@
     }
   ],
   "homepage": {
+    "id": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5",
     "domain": "badameong.kr",
     "templateType": "full_banner_wipe",
     "images": [
@@ -1789,40 +1789,14 @@
             }
           ]
         },
-        "layoutMap": {
+        "nearbyAttractions": {
           "sections": [ ]
         },
-        "nearbyAttractions": {
+        "layoutMap": {
           "sections": [ ]
         },
         "landing": {
           "sections": [ ]
-        }
-      },
-      "theme": {
-        "font": {
-          "koSub": {
-            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
-            "key": "pretendard",
-            "woff2": null,
-            "family": "Pretendard"
-          },
-          "enMain": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
-            "key": "cormorant",
-            "woff2": null,
-            "family": "Cormorant"
-          },
-          "koMain": {
-            "cdn": null,
-            "key": "cafe24gowoonbam",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff",
-            "family": "Cafe24Gowoonbam"
-          }
-        },
-        "color": {
-          "primary": "#F5FAFF",
-          "secondary": "#294161"
         }
       },
       "popup": {
@@ -1895,7 +1869,34 @@
           }
         ]
       },
+      "theme": {
+        "font": {
+          "koMain": {
+            "cdn": null,
+            "key": "cafe24gowoonbam",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff",
+            "family": "Cafe24Gowoonbam"
+          },
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "enMain": {
+            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
+            "key": "cormorant",
+            "woff2": null,
+            "family": "Cormorant"
+          }
+        },
+        "color": {
+          "primary": "#F5FAFF",
+          "secondary": "#294161"
+        }
+      },
       "property": {
+        "name": "태안 바다멍애견풀빌라",
         "images": [
           {
             "id": "489204fc-6c6e-410e-bbda-d9457a3f020a",
@@ -2015,8 +2016,7 @@
             "category": "property_exterior"
           }
         ],
-        "nameEn": "Badameong Pet Poolvilla",
-        "name": "태안 바다멍애견풀빌라"
+        "nameEn": "Badameong Pet Poolvilla"
       },
       "roomtypes": [
         {
@@ -2799,7 +2799,6 @@
       "footer": {
         "ruralStayMark": null
       }
-    },
-    "id": "6fde4b3f-a942-4a50-8b82-6fc0884d86f5"
+    }
   }
 }
